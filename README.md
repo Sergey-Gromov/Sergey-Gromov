@@ -6,6 +6,7 @@
    - e-mail: sgromov@hotmail.com
    - Telegram: https://t.me/iron_condor
    - Facebook: https://www.facebook.com/sergey.a.gromov
+   - LinkedIn: https://www.linkedin.com/in/sergey-gromov-23860613
 
 <!---
 Sergey-Gromov/Sergey-Gromov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
