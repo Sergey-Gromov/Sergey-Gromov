@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sergey-Gromov
-- 👀 I’m interested in AI Engineering, Machine Learning and Neural Networks
+- 👀 I’m interested in AI implementation for solving business needs.
 - 🌱 I’m currently learning AI Engineering, Machine Learning and Neural Networks
-- 💞️ I’m looking to collaborate on AI Engineering, Machine Learning and Artificial Intelligence
+- 💞️ I’m looking to collaborate on businesses in AI Implementation for boosting their efficiency
 - 📫 How to reach me:
    - e-mail: sgromov@hotmail.com
    - Telegram: https://t.me/iron_condor
