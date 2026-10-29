@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sergey-Gromov
 - 👀 I’m interested in AI implementation for solving business needs.
-- 🌱 I’m currently learning AI Engineering, Machine Learning and Neural Networks
+- 🌱 I’m currently learning AI Engineering & AI Adoption, Data Science & Machine Learning
 - 💞️ I’m looking to collaborate with businesses to boost their efficiency with Artificial Intelligence
 - 📫 How to reach me:
    - e-mail: sgromov@hotmail.com
